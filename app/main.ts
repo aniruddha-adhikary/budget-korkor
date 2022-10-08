@@ -1,6 +1,6 @@
-import {bootstrap, Bootstrapped} from "./deps.ts";
-import {Config} from "./config.ts";
-import {logger} from "./logger.ts";
+import { bootstrap, Bootstrapped } from "./deps.ts";
+import { Config } from "./config.ts";
+import { logger } from "./logger.ts";
 
 @Bootstrapped()
 export class App {
