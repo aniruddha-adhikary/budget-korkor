@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "emitDecoratorMetadata": true
+  },
+  "fmt": {
+    "files": {
+      "include": [
+        "app",
+        "tests"
+      ]
+    }
+  },
+  "test": {
+    "files": {
+      "include": [
+        "tests/"
+      ]
+    }
+  }
+}
